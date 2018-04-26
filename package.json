@@ -2,7 +2,7 @@
   "name": "ls",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/dartmouth-cs52-18S/starterpack-savannahliu.git",
+  "repository": "https://github.com/ckim18/workshop-ws-4-26-reactcomps.git",
   "author": "savannah <savannah.m.liu.18@dartmouth.edu>",
   "license": "MIT",
   "scripts": {
